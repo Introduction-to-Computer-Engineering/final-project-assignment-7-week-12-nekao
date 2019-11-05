@@ -6,7 +6,7 @@
 
 #### Week 12 - micro:bit I/O
 
-1. LEDs:
+### LEDs:
 
 1.  The [micro:bit original-guide](original-guide.js) program utilizes  3 external LEDs of different colors that are secured  to a circuit board. The LEDs will light up, changing state one at a time. This video showcases the micro:bit program working, [micro:bit original-guide video](https://www.youtube.com/watch?v=UwvZo6rz1pk&feature=youtu.be).
    
@@ -14,7 +14,7 @@
    
    3. [micro:bit twenty-eight](twenty-eight.js) is an extension of the screensaver program and adds the external LEDs into the changing patterns. Here is a link to showcase the project [micro:bit twenty-eight](NEEDS-LINK).
    
-2. Soil sensor:
+### Soil sensor:
 
    1. this micro:bit digital-in project was previously released, here a video [micro:bit digital-in video](NEEDS-LINK).
    
