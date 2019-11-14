@@ -6,7 +6,7 @@
 
 #### Week 12 - micro:bit I/O
 
-### LEDs:
+### 
 
    1. The [micro:bit original-guide](original-guide.js) program utilizes  3 external LEDs of different colors that are secured  to a circuit board. The LEDs will light up, changing state one at a time. This video showcases the micro:bit program working, [micro:bit original-guide video](https://www.youtube.com/watch?v=UwvZo6rz1pk&feature=youtu.be).
    
