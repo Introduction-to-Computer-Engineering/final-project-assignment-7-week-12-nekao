@@ -22,7 +22,7 @@ basic.forever(function () { //our sampling loop
             break;
         case 2:
             for (let y = 4; y > 2; y--) {    //displays 2 bars
-                for (let x = 0; x < 5; x++) {
+                for (let x = 0; x < 5; x++) {   
                     led.plotBrightness(x, y, 255)
                 }
             }
